@@ -1,6 +1,6 @@
 ### Hi there 👋, Muhammad Ramzan
 #### DevOps
-![DevOps](https://github.com/ramzan2022skipq/ramzan2022skipq/blob/main/Capture.PNG)
+![DevOps / AWS / PYTHON](https://pbs.twimg.com/media/FW43JD3WQAAJNeV?format=jpg&name=900x900)
 
 I'm Muhammad Ramzan. I did my bachelor in Electrical Engineering from Namal University Mianwali. Currently, I am doing DevOps training at SkipQ.
 
