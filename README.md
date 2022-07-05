@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ramzan</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzan2022skipq&label=Profile%20views&color=0e75b6&style=flat" alt="ramzan2022skipq" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramzan2022skipq" alt="ramzan2022skipq" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/progammer_123" target="blank"><img src="https://img.shields.io/twitter/follow/progammer_123?logo=twitter&style=for-the-badge" alt="progammer_123" /></a> </p>
 
 - 🔭 I’m currently working on **CI/CD**
@@ -26,5 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramzan2022skipq&show_icons=true&locale=en" alt="ramzan2022skipq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramzan2022skipq&" alt="ramzan2022skipq" /></p>
 
