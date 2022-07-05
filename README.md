@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ramzan</h1>
-<h3 align="center">DevOps Engineer</h3>
+### Hi there 👋, Muhammad Ramzan
 ![DevOps](https://pbs.twimg.com/media/FW43JD3WQAAJNeV?format=jpg&name=900x900)
+
+I'm Muhammad Ramzan. I did my bachelor in Electrical Engineering from Namal University Mianwali. Currently, I am doing DevOps training at SkipQ.
 
 - 🔭 I’m currently working on **CI/CD**
 
