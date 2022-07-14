@@ -3,7 +3,7 @@
 
 I'm Muhammad Ramzan. I did my bachelor in Electrical Engineering from Namal University Mianwali. Currently, I am doing DevOps training at SkipQ.
 
-- 🔭 I’m currently working on **CI/CD**
+- 🔭 I’m currently working on **API Gateway**
 
 - 🌱 I’m currently learning **DevOps**
 
